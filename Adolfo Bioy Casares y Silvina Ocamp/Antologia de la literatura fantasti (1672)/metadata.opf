@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca06d861-2fa0-4994-8676-2efceef3dfb8</dc:identifier>
+        <dc:title>Antología de la literatura fantástica</dc:title>
+        <dc:creator opf:file-as="Jorge Luis Borges, Adolfo Bioy Casares y Silvina Ocampo" opf:role="aut">Adolfo Bioy Casares y Silvina Ocampo Jorge Luis Borges</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1940-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Borges, Bioy Casares y Silvina Ocampo nos ofrecen en esta Antología de la literatura fantástica lo mejor de un género literario que siempre ha ejercido un atractivo irresistible en el público lector. Es el género representado por las irrupciones de la fantasía creadora, lo inexplicable, lo misterioso, lo sobrenatural.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-16T22:52:48.729971+00:00"/>
+        <meta name="calibre:title_sort" content="Antología de la literatura fantástica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
