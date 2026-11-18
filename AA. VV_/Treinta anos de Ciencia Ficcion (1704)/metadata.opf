@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cd14138-e3ea-428b-88bc-d7088e567320</dc:identifier>
+        <dc:title>Treinta años de Ciencia Ficción</dc:title>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">AA. VV.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1965-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Desde que Hogo Gernsback creara Amazing hasta nuestros días, ha corrido mucha tinta… y se han escrito muchos relatos de ciencia ficción. Los estilos y los temas, han evolucionado; han surgido nuevos autores; tendencias como la «new thing» han evolucionado el campo. Pero la ciencia ficción ha seguido existiendo como una sola cosa pese a todos los esos cambios. Sam Moscowitz es uno de los especialistas americanos más conocidos que se ha dedicado al estudio de la ciencia ficción. Conocedor desde sus inicios de todos los autores y tendencias, es autor de numerosos trabajos, semblanzas, biografías, estudios críticos, etc. Su dedicación le ha permitido conocer todas las fluctuaciones que ha sufrido la ciencia ficción desde las heroicas décadas de los años treinta hasta nuestros días. Tal vez resulte un poco aventurado decir que Sam Moscowitz es un completista en lo que a la ciencia ficción se refiere… pero lo es. Éste es el origen y la finalidad de esta obra. En ella, y tras un interesante estudio sobre la evolución del género desde su principio, Moskowitz nos presenta veintiún relatos, pertenecientes a los autores más representativos. Pero, al mismo tiempo, estos relatos evidencian también las las inquietudes y los deseos de la época en que fueron escritos. John Campbell dijo en una ocasión que nada mejor que un buen relato de ciencia ficción para conocer y conocer la ideología de la época en que fue escrito. En estos veintiún relatos hay representados casi treinta años de ciencia ficción: una guerra mundial, varias crisis económicas, la carrera del espacio, el nazismo, el comunismo, el capitalismo… todo está ahí. Se trata pues, de un viaje al futuro que no abandona pese a todo nuestro pasado ni nuestro presente. Si buscan sólo evasión, la hallarán; si buscan «algo más»… lo encontrarán también. Esperamos que en ambos casos, les guste.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-25T16:57:45.085542+00:00"/>
+        <meta name="calibre:title_sort" content="Treinta años de Ciencia Ficción"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

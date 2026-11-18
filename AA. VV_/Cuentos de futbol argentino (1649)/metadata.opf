@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c48a99c-dd79-4dc5-9218-19adf23e8b2c</dc:identifier>
+        <dc:title>Cuentos de fútbol argentino</dc:title>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">AA. VV.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Si acaso es cierto, como afirma Alejandro Dolina, que “en un partido de fútbol caben infinidad de novelescos episodios”, el inevitable resultado del encuentro entre fútbol y ficción tenía que ser este cóctel poderoso y típicamente argentino. Y nadie mejor que Fontanarrosa para elegir a los integrantes de esta selección. Aficionado al gol de lujo, consagró un equipo mixto de eficacia más que probada y, al sonido del silbato, invita: “Señores, a lo nuestro. Que la pelota está en el centro del campo, el árbitro consulta con sus asistentes y ya damos vuelta la primera página de este partido para gozar del juego que los argentinos, como diría el Serrat, mejor jugamos y más nos gusta”.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:36:19.656073+00:00"/>
+        <meta name="calibre:title_sort" content="Cuentos de fútbol argentino"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

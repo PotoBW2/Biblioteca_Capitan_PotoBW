@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">937ce37a-56c1-4d47-a34a-c41e8f3cdb93</dc:identifier>
+        <dc:title>Los pequeños monstruos</dc:title>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">AA. VV.</dc:creator>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">August W. Derleth</dc:creator>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">Cynthia Asquith</dc:creator>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">Henry Kurrner</dc:creator>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">Greye La Spina</dc:creator>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">Algernon Blackwood</dc:creator>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">E. F. Benson</dc:creator>
+        <dc:creator opf:file-as="AA. VV. &amp; Derleth, August W. &amp; Bradbury, Ray &amp; Asquith, Cynthia &amp; Kurrner, Henry &amp; Spina, Greye La &amp; Blackwood, Algernon &amp; Benson, E. F. &amp; Kipling, Rudyard" opf:role="aut">Rudyard Kipling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Pese a lo que nos pueda indicar el título, esta antología no se decanta por una visión especialmente perversa de los infantes, aunque, eso sí, mantiene a la infancia como nexo de unión. El relato de Bradbury es característico del autor: le bastan unos pocos trazos para construir un microcosmos, y escasos personajes para llevar el conflicto o idea central a su esencia. Y en cuanto al estilo, no hay descubrimientos: se vale de la repetición pleonástica y del paralelismo sintáctico, entre los recursos más frecuentes, para dotar a su prosa de una inconfundible eufonía, esta vez a juego con las canciones infantiles de las que aprenderemos un reverso macabro.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-25T16:57:54.512204+00:00"/>
+        <meta name="calibre:title_sort" content="pequeños monstruos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

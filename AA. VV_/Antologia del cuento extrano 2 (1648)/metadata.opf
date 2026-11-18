@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38148beb-3455-4bd1-929f-104686c0324f</dc:identifier>
+        <dc:title>Antología del cuento extraño 2</dc:title>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">AA. VV.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1976-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Largos o breves, estos relatos tienen la característica común de describir insólitas experiencias o de situarse en un clima extraño en el que la realidad prosaica y cotidiana no halla cabida.Largos o breves, estos relatos tienen la característica común de describir insólitas experiencias o de situarse en un clima extraño en el que la realidad prosaica y cotidiana no halla cabida.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:series" content="Antología del cuento extraño"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-02-16T22:36:12.849095+00:00"/>
+        <meta name="calibre:title_sort" content="Antología del cuento extraño 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

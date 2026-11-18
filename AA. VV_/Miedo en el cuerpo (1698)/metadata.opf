@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3702b5fe-c3f0-4560-93fb-e7e3c7d988de</dc:identifier>
+        <dc:title>Miedo en el cuerpo</dc:title>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">AA. VV.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T05:00:00+00:00</dc:date>
+        <dc:description>En estos 25 años de vida Valdemar ha editado más de 1.000 relatos de terror, de modo que podemos afirmar que una de nuestras principales labores como editorial ha sido «meter miedo en el cuerpo» de nuestros lectores. Así pues, hemos querido festejar este acontecimiento con una antología que amplíe las ya aparecidas: Felices Pesadillas (2003) y Malos Sueños (2004). Para elaborar Miedo en el cuerpo (2012) nos hemos centrado preferentemente en historias y autores publicados en los últimos años, tomando como punto de partida a uno de los autores fetiche de Valdemar: Edgar Allan Poe. Bram Stoker, Francis Marion Crawford, Robert W. Chambers, H.P. Lovecraft, Robert E. Howard, Clark Ashton Smith, Robert Bloch o Thomas Ligotti, entre otros, mostrarán al lector un panorama más actual del género de terror, convirtiendo esta antología conmemorativa en un complemento idóneo a las dos selecciones publicadas con anterioridad. Estamos convencidos de que los relatos de terror son como drogas personalizadas que estimulan los códigos de nuestros miedos más secretos y trazan un mapa de nuestras pesadillas. Con Miedo en el cuerpo esperamos trazar uno más de los múltiples mapas de las tinieblas. Bienvenidos al lado oscuro.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:series" content="Felices pesadillas"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-02-25T16:57:03.342450+00:00"/>
+        <meta name="calibre:title_sort" content="Miedo en el cuerpo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

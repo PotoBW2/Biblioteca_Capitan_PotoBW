@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">243a774b-2123-467f-be60-628ac2e3f3d0</dc:identifier>
+        <dc:title>La Edad de Oro. 1946-1947</dc:title>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">AA. VV.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Los mejores relatos del período histórico más importante de la ciencia ficción, cuando los grandes maestros configuraron los temas clásicos del género. Quinto volumen de una esmeradísima selección en la que Asimov y Greenberg presentan cronológicamente las narraciones que marcaron la evolución del género. Diez historias aparecidas originalmente en 1946 y 1947, obra de los mejores escritores del momento. Fredric Brown, Dolton Edwards, Henry Kuttner y Catherine L. Moore, Theodore Sturgeon, William Tenn, H. Beam Piper y T. L. Sherred son los autores de este conjunto de relatos inolvidables.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">56875</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <meta name="calibre:series" content="Gran Super Ficción"/>
+        <meta name="calibre:series_index" content="26"/>
+        <meta name="calibre:timestamp" content="2025-02-25T16:56:50.066314+00:00"/>
+        <meta name="calibre:title_sort" content="Edad de Oro. 1946-1947, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
