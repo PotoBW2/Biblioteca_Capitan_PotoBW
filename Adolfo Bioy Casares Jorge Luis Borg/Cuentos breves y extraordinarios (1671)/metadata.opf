@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4728f5f1-57ed-4ffc-8c3f-14803f8b8f32</dc:identifier>
+        <dc:title>Cuentos breves y extraordinarios</dc:title>
+        <dc:creator opf:file-as="Jorge Luis Borges, Adolfo Bioy Casares" opf:role="aut">Adolfo Bioy Casares Jorge Luis Borges</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1955-12-12T05:00:00+00:00</dc:date>
+        <dc:description>Comprender la esencia de lo narrativo constituye el propósito primordial de esta excelente y singularísima antología. Los textos más variados, de distintas épocas y lugares y autores diversos; desde Chuang Tzu y &lt;em&gt;Las mil y una noches&lt;/em&gt; hasta Max Jacoob y Martín Búber, así como Plutarco, Diderot, Kafka, O. Henry, Paul Valéry y Alfonso Reyes, entre muchos otros, incluso algunos de improbable existencia, se dan cita en estas páginas que, sin duda, deleitarán con su sutil encanto y su doble escritura incluso al lector más desprevenido. Y seguramente, éste llegará a compartir el juicio de Borges y Bioy Casares: «Lo esencial de lo narrativo está, nos atrevemos a pensar, en estas piezas, lo demás es episodio ilustrativo, análisis psicológico, feliz o inoportuno adorno verbal».</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Cuento</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:50:25.126922+00:00"/>
+        <meta name="calibre:title_sort" content="Cuentos breves y extraordinarios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
