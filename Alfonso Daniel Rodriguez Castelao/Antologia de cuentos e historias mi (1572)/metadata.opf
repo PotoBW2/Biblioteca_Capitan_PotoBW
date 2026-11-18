@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44384e58-e170-47c6-aef2-acd8101d5cc3</dc:identifier>
+        <dc:title>Antología de cuentos e historias mínimas</dc:title>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Alfonso Daniel Rodríguez Castelao</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Alfonso Sastre</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Ana María Matute</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Antón Chéjov</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Arthur Koestler</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Augusto Monterroso</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Camilo José Cela</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Cayo Petronio Arbitro</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Ciro Alegría</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Consuelo Garrido</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Dino Buzzati</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Edgar Allan Poe</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Enrique Anderson Imbert</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Gabriel García Márquez</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Giovanni Guareschi</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Guy de</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Hernando Téllez</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Horacio Quiroga</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Ignacio Aldecoa</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Italo Calvino</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Jean-Claude Carrière</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">José Jiménez Lozano</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">José María Gironella</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">José María Merino</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Juan Bosch</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Juan Eduardo Zúñiga</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Juan Rulfo</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Julio Cortázar</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Katherine Mansfield</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Lev Nikoláievich Tolstói</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Lord Dunsany</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Luis Mateo Díez</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Manuel Vicent</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Mario Benedetti</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Max Aub</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Miguel Gila</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Miguel Torga</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Máximo Gorki</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Pedro Gómez Valderrama</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Rabindranath Tagore</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Rafael Dieste</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Ramón Gómez de la Serna</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Ramón María del Valle-Inclán</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Raymond Carver</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Rudyard Kipling</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Salvador Elizondo</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Stefan Zweig</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Tennessee Williams</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Varlam Shalámov</dc:creator>
+        <dc:creator opf:file-as="Alfonso Daniel Rodríguez Castelao" opf:role="aut">Ánxel Fole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;La imaginación y la fantasía, la curiosidad y la atracción por lo maravilloso y el temor ante el misterio son características propias del hombre, como también la necesidad de distracción, de evasión y de expresar las emociones. De ahí surgen, desde el principio de los tiempos, las narraciones orales y los viejos cuentos. Sin embargo, el cuento como expresión literaria, autónoma y definida, es una de las conquistas más hermosas de un siglo tan importante narrativamente como fue el &lt;small&gt;XIX&lt;/small&gt;, y alcanza su máxima expresión en el &lt;small&gt;XX&lt;/small&gt;. Esta &lt;i&gt;Antología&lt;/i&gt;, ofrece treinta y tres cuentos, y cuarenta y dos historias mínimas de los autores más representativos del género en ambos siglos, como Poe, Maupassant, Chéjov, Kipling, Borges, Lovecraft, Valle-Inclán, Cortázar, Carver, Aldecoa o Calvino. Con estilos y temas diferentes, que van desde el fantástico o terrorífico al realista y cotidiano, consiguen provocarnos una emoción intensa y duradera. Miguel Diez R., autor de &lt;i&gt;Antología del cuento literario&lt;/i&gt; y &lt;i&gt;Antología de la poesía española del siglo &lt;small&gt;XX&lt;/small&gt;,&lt;/i&gt; ha publicado en Austral la edición de &lt;i&gt;Jardín Umbrío&lt;/i&gt;, de Valle-Inclán, y &lt;i&gt;La memoria de los cuentos&lt;/i&gt;, en colaboración con Paz Diez Taboada.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">71337</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Otros</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:timestamp" content="2024-03-01T02:25:05.102994+00:00"/>
+        <meta name="calibre:title_sort" content="Antología de cuentos e historias mínimas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
