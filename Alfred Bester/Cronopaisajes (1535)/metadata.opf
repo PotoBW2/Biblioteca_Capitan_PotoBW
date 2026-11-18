@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b05af68-0da5-47a3-8288-156a4bf0849c</dc:identifier>
+        <dc:title>Cronopaisajes</dc:title>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Alfred Bester</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Grendel Briarton</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Ricard de la Casa Pérez</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">James E. Gunn</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">J. B. Priestley</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Robert F. Young</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Richard Hughes</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">L. Sprague de Camp</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Martin Amis</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">William Gibson</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Jack Finney</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">William F. Nolan</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Edward Page Mitchell</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Eric Frank Russell</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Brian W. Aldiss</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Cyril M. Kornbluth</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Frederik Pohl</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Pedro Jorge Romero</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">J. G. Ballard</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Michael Moorcock</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">José Mallorquí</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">H. G. Wells</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Todos somos obligados viajeros del tiempo si aceptamos que nuestra manera de viajar en él está limitada a ir siempre hacia «adelante» a la «velocidad» de un segundo por segundo… Las máquinas del tiempo de la ciencia ficción han permitido a los viajeros temporales, desde el protagonista de la clásica novela de H. G. Wells La máquina del tiempo (1895), el viaje temporal hacia adelante a otras «velocidades» y, también, el viaje al pasado que, en nuestra limitada realidad, sólo podemos hacer con la imaginación. Un peligroso y complejo viaje al pasado que abre las puertas a un sinfín de paradojas.
+
+La exploración de las paradojas temporales en la ciencia ficción ha sido casi completa. Desde las clásicas paradojas «abiertas», como la causada por la persona que retrocede en el tiempo para matar a uno de sus antepasados haciendo imposible su propio nacimiento y, por consiguiente, el asesinato que acaba de cometer, a las más complejas paradojas «cerradas» en las que se crea un círculo sumamente vicioso en el que, por ejemplo, la información puede circular sin un creador evidente.
+
+Por todo ello, aun bajo la forma de una inteligente diversión intelectual o, también, de una posible admonición sobre las amenazas de nuestro futuro o, incluso, de una reflexión sobre los puntos de inflexión de la historia humana, lo cierto es que el tratamiento de los viajes a través del tiempo ha acabado siendo uno de los aspectos especulativos más atractivos y espectaculares de la ciencia ficción de todos los tiempos.
+
+Este volumen antológico recopila veintiséis relatos que muestran una amplia panorámica de paisajes en el tiempo y la forma de visitarlos, incluyendo las mejores narraciones de esta compleja y sorprendente variedad especulativa. Un verdadero clásico.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">54704</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <meta name="calibre:series" content="Nova"/>
+        <meta name="calibre:series_index" content="162"/>
+        <meta name="calibre:timestamp" content="2024-03-01T02:20:32.437839+00:00"/>
+        <meta name="calibre:title_sort" content="Cronopaisajes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
