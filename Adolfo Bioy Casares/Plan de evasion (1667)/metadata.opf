@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6fceaa6-f1a6-4a8d-a98d-8140bd0d5054</dc:identifier>
+        <dc:title>Plan de evasión</dc:title>
+        <dc:creator opf:file-as="Casares, Adolfo Bioy" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1945-06-15T05:00:00+00:00</dc:date>
+        <dc:description>Adolfo Bioy Casares plantea en esta novela, a través de su imaginativa prosa,la duda de si un hombre encerrado en una celda puede sentirse al mismo tiempo libre y absolutamente feliz. La idea que germina en la tortuosa mente del gobernador Castel -amo absoluto de las islas de los condenados- es modificar ciertos elementos en los cerebros de los reclusos previamente elegidos, con el fin de otorgarles el poder de captar nuevas percepciones sensoriales. Plan de evasión, libro de pleno de símbolos, claves y alucinantes posibilidades, se mantiene fresco y vigente y es un importante hito en la literatura argentina.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantasia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:43:06.289308+00:00"/>
+        <meta name="calibre:title_sort" content="Plan de evasión"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

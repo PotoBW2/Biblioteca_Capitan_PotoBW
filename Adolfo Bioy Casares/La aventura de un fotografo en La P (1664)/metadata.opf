@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1664</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27d47d96-8628-464a-9cd0-908c6f16406f</dc:identifier>
+        <dc:title>La aventura de un fotógrafo en La Plata</dc:title>
+        <dc:creator opf:file-as="Casares, Adolfo Bioy" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-06-15T05:00:00+00:00</dc:date>
+        <dc:description>La aventura de un fotógrafo en La Plata narra las peripecias de Nicolasito Almanza durante su estancia en La Plata —ciudad a la que acude en el cumplimiento de su primer encargo como fotógrafo profesional— y de sus azarosas relaciones con la familia Lombardo y los personajes que pueblan su mundo de huésped de pensión. Apariencia y realidad, sueño y vigilia, plena consciencia y alucinación, se funden sutilmente para subrayar la fundamental ambigüedad de este relato, que, si bien participa de los elementos de la novela de intriga y del relato fantástico, es, a la vez, una hermosa historia de amor.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:41:47.060012+00:00"/>
+        <meta name="calibre:title_sort" content="aventura de un fotógrafo en La Plata, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

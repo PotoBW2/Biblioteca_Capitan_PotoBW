@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95a194d7-e3ba-48f6-9412-296ee20fc7d7</dc:identifier>
+        <dc:title>Historias desaforadas</dc:title>
+        <dc:creator opf:file-as="Casares, Adolfo Bioy" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-06-15T05:00:00+00:00</dc:date>
+        <dc:description>Colección de relatos en la que resuenan las obsesiones permanentes (los sueños, el doble, el viaje, la imposibilidad del amor, la lucha contra la vejez, la inmortalidad) de la obra entera de Adolfo Bioy Casares, estas diez HISTORIAS DESAFORADAS, que vienen a sumarse a las antológicas recopilaciones de «Historias de amor» e «Historias fantásticas», muestran la asombrosa capacidad del gran escritor argentino para la invención de mundos fabulosos, construidos en una personalísima clave de humor y con un deslumbrante talento literario Edificios linderos con otra dimensión, cines de feria que revelan el alma del espectador, profesores acorralados por el paso del tiempo o el amor de una alumna… Los relatos del presente volumen compendian la sensibilidad, la inventiva y el humor satírico que hicieron de Adolfo Bioy Casares uno de los más grandes cuentistas de nuestro idioma. En el notable “Máscaras venecianas” la ciencia experimental funciona de coartada para la persecución de amores imposibles; en “Historia desaforada” y “Planes para una fuga al Carmelo” la novedosa terapéutica de un grupo de médicos plantea a los héroes una disyuntiva de hierro; en “El Nóumeno” la pérdida está tamizada por un descubrimiento portentoso. Según declaró el autor, “Trío” incluye al menos un episodio autobiográfico, como también “El relojero de Fausto”. Cierra la serie “La rata o una llave para la conducta”, enigmática fantasía de corte policial. Historias desaforadas presenta magistralmente a los lectores un mundo que se disgrega entre la ciencia y la magia, el peso de la realidad y la esperanza del amor.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Cuentos</dc:subject>
+        <dc:subject>Fantasia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:41:32.310479+00:00"/>
+        <meta name="calibre:title_sort" content="Historias desaforadas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

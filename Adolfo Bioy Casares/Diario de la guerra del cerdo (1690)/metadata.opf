@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81732cfe-8768-4993-9fcc-7f67adad5b14</dc:identifier>
+        <dc:title>Diario de la guerra del cerdo</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-06-15T05:00:00+00:00</dc:date>
+        <dc:description>Diario de la guerra del cerdo (1969), de Adolfo Bioy Casares, es una novela extraña, incómoda. Por momentos parece una novela fantástica, pero en rigor no lo es; algunos podrían decir que se trata de ciencia ficción, argumentando que plantea una sociedad en muchos aspectos futura, pero eso no sería exacto; lo que queda es decir que se trata de una novela realista, pero tampoco es realista. ¿Qué es entonces? No es nada de lo que dijimos, pero a su vez es todo eso junto. Diario de la guerra del cerdo es una novela inclasificable, que vale la pena leer. Isidro Vidal, un hombre que se encuentra en la frontera entre la madurez y la vejez, y que vive en un incómodo apartamento del lumpen bonaerense, contempla asustado cómo sus amigos, algo mayores que él, van muriendo uno a uno. Y él, persona derrotada, divorciado, con un hijo que lo desprecia, se debate entre hacer algo o dejarse llevar por su carácter débil hacia la entropía.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T23:28:33.315069+00:00"/>
+        <meta name="calibre:title_sort" content="Diario de la guerra del cerdo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

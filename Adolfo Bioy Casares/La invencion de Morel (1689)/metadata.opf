@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2cf3e4d-2e5a-4d8c-9084-eb7d1e7d853c</dc:identifier>
+        <dc:title>La invención de Morel</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1940-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un fugitivo acosado por la justicia llega en un bote de remos a una isla desierta sobre la que se alzan algunas construcciones abandonadas. Pero un día, ese hombre solitario siente que ya no lo es, porque en la isla han aparecido otros seres humanos. Los observa, los espía, sigue sus pasos e intenta sorprender sus conversaciones. Ése es el punto de partida del misterio, del tránsito continuo de la realidad a la alucinación, que poco a poco lleva al fugitivo hasta el esclarecimiento de todos los enigmas. Este libro puede compararse, por derecho propio, con los relatos más perfectos de Edgar Allan Poe. Su trama ingeniosa, sabiamente desplegada y, sobre todo, la admirable originalidad de la idea en torno a la cual gira la acción, han convertido a La invención de Morel en una de las obras maestras indiscutibles de la literatura fantástica.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T23:28:28.599183+00:00"/>
+        <meta name="calibre:title_sort" content="invención de Morel, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

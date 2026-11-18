@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e9a4d2c-8e07-431a-9a2c-2e9490e59a8c</dc:identifier>
+        <dc:title>De un mundo a otro</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un periodista argentino llamado Javier Almagro y su novia, la astronauta Margarita, emprenden un histórico viaje espacial a bordo de una pequeña nave. Durante el trayecto ocurre un accidente que los obliga a descender en un misterioso planeta habitado por seres parecidos a pájaros y dotados de razón. Esta raza ha construido grandes ciudades y posee una compleja organización social que en muchos aspectos recuerda a la de los terrícolas. Adolfo Bioy Casares, maestro indiscutible de la literatura fantástica hispanoamericana, nos entrega un amenísimo relato de ciencia-ficción que funciona, al mismo tiempo, como una regocijante sátira donde podemos descubrir los desasosiegos e incertidumbres del hombre contemporáneo. Todo ello descrito con la elegante y sutil ironía que caracterizó al autor de La invención de Morel y La trama celeste.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:39:25.624618+00:00"/>
+        <meta name="calibre:title_sort" content="De un mundo a otro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

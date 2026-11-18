@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf9dbfd9-b447-4711-a234-66edfef3cd73</dc:identifier>
+        <dc:title>Historias de amor</dc:title>
+        <dc:creator opf:file-as="Casares, Adolfo Bioy" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1972-06-15T05:00:00+00:00</dc:date>
+        <dc:description>Los dieciocho relatos reunidos en 'Historias de amor' tienen como denominador común la relación amorosa contemplada desde la perspectiva de un humorismo distanciador, un escepticismo civilizado y una implícita valoración del sentimiento. Adolfo Bioy Casares explora ese tema eterno a través de una gran variedad de situaciones argumentales, entre ellas la desgracia de un hombre que pierde lo que tiene sin lograr lo que desea, la supervivencia de una mujer en la memoria de dos rivales, la extrañeza de los primeros encuentros, la defensa de la intimidad a través del crimen, una frase que arruina una situación largo tiempo esperada, o la hibernación casual de dos amantes enemistados que se reconcilian cien años después.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relatos</dc:subject>
+        <dc:subject>Fantasia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:41:27.856107+00:00"/>
+        <meta name="calibre:title_sort" content="Historias de amor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

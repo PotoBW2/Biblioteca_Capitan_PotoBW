@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">435e7c14-e53f-43bf-a6db-c710ea75f8d5</dc:identifier>
+        <dc:title>Los que aman, odian</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo &amp; Ocampo, Silvina" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo &amp; Ocampo, Silvina" opf:role="aut">Silvina Ocampo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1946-01-01T05:00:00+00:00</dc:date>
+        <dc:description>El doctor Huberman llega al apartado hotel de Bosque de Mar «en busca de una deleitable y fecunda soledad». Poco imagina que pronto se verá envuelto en las complejas relaciones que los curiosos habitantes del hotel han ido tejiendo. Una mañana, uno de ellos aparece muerto y otro ha desaparecido. Bajo la amenaza de los cangrejales y del mar, aislados por una tormenta de viento y arena, las ya frágiles relaciones entre los personajes se tensan. Cualquier detalle es acusador, cualquier persona puede ser el asesino. Llegados a este punto, la novela se convierte en un fascinante viaje a través de las pasiones humanas, desde el amor hasta la envidia, la venganza, incluso el odio. Es aquí donde el carácter de los personajes cobra máxima importancia : los fantasmas y los deseos de cada uno, esos mundos imaginarios tan recónditos y secretos, forman parte del misterio que irá desvelándose a lo largo de la obra.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="El séptimo círculo"/>
+        <meta name="calibre:series_index" content="31"/>
+        <meta name="calibre:timestamp" content="2025-02-16T22:42:39.983755+00:00"/>
+        <meta name="calibre:title_sort" content="que aman, odian, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

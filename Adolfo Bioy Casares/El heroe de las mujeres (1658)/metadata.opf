@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">154198e6-9301-430d-907d-3314dc7367f1</dc:identifier>
+        <dc:title>El héroe de las mujeres</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Este libro reúne todas las novelas cortas y cuentos que Adolfo Bioy Casares escribió después de «El gran serafín» (1967). Para el autor, un narrador de ficciones es, ante todo, un creador de espectáculos. Al escoger situaciones dramáticas se inclina, por excelencia, por la de un hombre en peligro. Esta constante aparece en todos los cuentos de este libro, salvo en «Una guerra perdida». Bioy Casares explica de esta manera el título de su nuevo libro: «No se olviden que el héroe de los hombres no es el héroe de las mujeres». Traducido a varios idiomas en Europa y en los Estados Unidos, Adolfo Bioy Casares es hoy, sin duda alguna, uno de los más importantes escritores argentinos.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">67980</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:40:26.254590+00:00"/>
+        <meta name="calibre:title_sort" content="héroe de las mujeres, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f38c2d8-d144-42f1-979c-e3c05ad01ac3</dc:identifier>
+        <dc:title>La trama celeste</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1948-11-01T05:00:00+00:00</dc:date>
+        <dc:description>En este libro de relatos escrito en 1948, Bioy Casares crea con inagotable fantasía cuentos de apariencia y realidad, de mundos paralelos y juegos espaciotemporales, consiguiendo una de las obras más trascendentes en la literatura argentina.
+Entre la apertura y el cierre tan simétricos de «Memoria de Paulina» y «El perjurio de la nieve», dos extraordinarios cuentos que, con aires de policial fantástico, exponen a su manera un triángulo amoroso, es como si hubiera algo aún más próximo y accesible en los relatos que conforman La trama celeste: tal vez la recurrencia de la primera persona, las múltiples resonancias en muchos de estos personajes del acto de escribir o la naturalidad con la que el fantástico cierra de un portazo aquello que falsea en el orden de lo real.
+Jardines con trasfondo, inescrutables giros del destino, mundos paralelos que convergen en algún punto y tranqueras que detienen el tiempo se dan cita en esta serie de relatos tan notables como sutiles que ofrecen, acaso, las puertas de acceso ideales a una de las obras más trascendentes de la literatura argentina.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">77130</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ucronía</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:42:14.219836+00:00"/>
+        <meta name="calibre:title_sort" content="trama celeste, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

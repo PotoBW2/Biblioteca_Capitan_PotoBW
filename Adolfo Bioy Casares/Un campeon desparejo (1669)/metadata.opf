@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3aa7b00f-97fe-4e60-b643-f7d2e6f9265f</dc:identifier>
+        <dc:title>Un campeón desparejo</dc:title>
+        <dc:creator opf:file-as="Casares, Adolfo Bioy" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-06-15T05:00:00+00:00</dc:date>
+        <dc:description>En Un Campeón Desparejo, Bioy narra las peripecias de Luis Ángel Morales, un taxista de Buenos Aires, ex alcoholico, de buen corazón y poco inteligente. La novela empieza cuando Luis Ángel Morales recoge a dos extraños tipos que le dan a beber una extraña poción que le transforma la vida. De ahí en adelante, Luis Ángel Morales se convierte en un hombre increible, de salvador de amas de casa y de putas bonaerenses. Pero es más que Hulk. Imagínense una versión de Hulk dirigida por Godard en Buenos Aires. Particularmente, lo que más me agrada de la novela es como Bioy va desbaratando todas las conjeturas que uno se va haciendo acerca del desenlace de la novela. Como un semáforo, la trama va cambiando de un punto a otro y volviendo de nuevo al punto de inicio. De los escritores recientes, me parece que César Aira tiende a esas vueltas, pero en Bioy hay una gracia y un manejo de un lenguaje llano y sencillo de una precisión y una riqueza incomparable.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantasia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:43:44.494412+00:00"/>
+        <meta name="calibre:title_sort" content="campeón desparejo, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

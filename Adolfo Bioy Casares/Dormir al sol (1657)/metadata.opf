@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0503ed4-2fd4-4add-b181-6597c6cb3ce1</dc:identifier>
+        <dc:title>Dormir al sol</dc:title>
+        <dc:creator opf:file-as="Casares, Adolfo Bioy" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1973-06-15T05:00:00+00:00</dc:date>
+        <dc:description>Dormir al sol, es una visión de un universo alucinante en que las apariencias de realidad, espacio y tiempo adoptan las formas más inusitadas bajo el influjo de una inagotable capacidad de fabulación. Lucho Bordenave lleva la existencia gris del empleado cesante, dedicado al oficio de relojero, hasta que, de modo un tanto misterioso, internan a su mujer en un “Instituto Frenopático”. A partir de ese momento nos adentramos en una región sin perfiles en que lo real se confunde con lo imaginado, el sueño con la vigilia y la locura con la lucidez. Las peripecias más inusitadas suceden bajo la apariencia de normalidad hasta llegar a las últimas páginas, dominadas por un mundo de pesadilla y culminadas por un desconcertante final.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantasia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:39:38.961925+00:00"/>
+        <meta name="calibre:title_sort" content="Dormir al sol"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

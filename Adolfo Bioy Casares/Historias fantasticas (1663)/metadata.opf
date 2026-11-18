@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59306317-9ce3-4637-82b6-e30d8bc3d095</dc:identifier>
+        <dc:title>Historias fantásticas</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1972-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Estas catorce «Historias fantásticas» muestran el talento literario de Adolfo Bioy Casares para imaginar esa realidad invisible que acecha en los intersticios de la vida cotidiana. Si en «La invención de Morel» y en «El sueño de los héroes» es el entrecruzamiento de tiempos y espacios la posibilidad que se explora, en estos relatos se dan además otras situaciones, como una variante teratológica de los cuentos de hadas, una maligna proyección del pensamiento para provocar un delirio de celos, las nostalgias de un amante desengañado al que persigue el recuerdo en forma de una materialización animal, el encuentro con la mujer amada en una situación fugaz e irrepetible, o la llegada a un tiempo hostil mediante una simple traslación en el espacio.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">63772</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:41:36.794892+00:00"/>
+        <meta name="calibre:title_sort" content="Historias fantásticas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

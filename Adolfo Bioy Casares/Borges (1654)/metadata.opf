@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e730c94-509d-432e-b68d-09297ef4536f</dc:identifier>
+        <dc:title>Borges</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-19T05:00:00+00:00</dc:date>
+        <dc:description>Grandísimo narrador y testigo privilegiado de la vida literaria de su tiempo. Adolfo Bioy Casares preparó, poco antes de su muerte, a partir de los exhaustivos diarios que llevó durante más de medio siglo, un libro extraordinario sobre su amistad con Jorge Luis Borges. una de las más emblemáticas de la literatura contemporánea. El presente volumen —a cargo de Daniel Martino— recoge en su totalidad esa obra. Por sus páginas desfilan las ideas más asombrosas de Borges, esenciales para la comprensión de sus escritos, conjugadas con una detallada descripción de su vida cotidiana, sus amores, su angustia ante el progreso de su ceguera o sus apasionadas posiciones en la controversia literaria y política. Casi en cada línea aflora un comentario inesperado, un detalle desconocido, un dato revelador tamizado por la diligente lucidez de Bioy. La mordacidad de los diálogos, verdaderas lecciones de teoría y práctica literaria, no respeta jerarquías, prestigios ni parentescos: aparecen desde señoras de sociedad, políticos, amigos, Victoria Ocampo, Perón o Gardel, hasta Shakespeare, Dante, Cervantes, Victor Hugo, Lorca o Faulkner, ensalzados o destruidos con ironía, inteligencia y humor. De la agudeza del conjunto surge un Borges insospechado en la intimidad, contradictorio, vulnerable, a menudo melancólico, siempre brillante. Como la «Vida del Doctor Samuel Johnson» de Boswell, el «Borges» de Bioy constituye un documento fundamental sobre el genial escritor argentino y también la biografía definitiva de una relación que cambió el curso de nuestras letras.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">14330</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:38:08.574430+00:00"/>
+        <meta name="calibre:title_sort" content="Borges"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

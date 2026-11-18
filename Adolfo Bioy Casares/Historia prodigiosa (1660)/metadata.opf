@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97306661-e34f-4425-abe9-3592b7a0199f</dc:identifier>
+        <dc:title>Historia prodigiosa</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1956-04-23T05:00:00+00:00</dc:date>
+        <dc:description>Escritos entre 1949 y 1955, los relatos de Historia prodigiosa representan, en la vasta obra de Adolfo Bioy Casares (Buenos Aires, 1914), espléndidos ejemplos de su madurez como cuentista. El estilo, marcado antes por acusados contrastes y por cierto elaborado distanciamiento, deviene más tenue; el artificio, menos evidente. Los escenarios exóticos de las narraciones de La trama celeste (1948) —el castillo de los Gulniac, la Posada del Túnel, una Buenos Aires fantasmagóricamente paralela—, dejan lugar a ámbitos grises y cotidianos donde lo fantástico (el dios Baco, un cortejo de demonios) se instala sutil e imperceptiblemente. De sus cuentos, el memorable Homenaje a Francisco Almeyra destaca por la excelencia de la prosa y el rigor de la reconstrucción histórica; Clave para un amor es una de las pocas narraciones de Bioy Casares en que lo fantástico se define francamente hacia lo sobrenatural; Las vísperas de Fausto, un relato brevísimo de singular inspiración; Historia prodigiosa, una divertida parodia de las situaciones de Chesterton; Fa sierra ajena es el cuento más extraño, el de invención más extraordinaria. Publicado en México en 1956 y reeditado en Buenos Aires en 1961, Historia prodigiosa aparece ahora por primera vez en España en esta cuidadosa versión que puede considerarse definitiva.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:41:19.757735+00:00"/>
+        <meta name="calibre:title_sort" content="Historia prodigiosa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

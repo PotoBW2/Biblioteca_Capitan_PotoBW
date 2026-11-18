@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4b3bca1-b400-4c26-ba52-42eb74112e12</dc:identifier>
+        <dc:title>Descanso de caminantes</dc:title>
+        <dc:creator opf:file-as="Casares, Adolfo Bioy" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-15T05:00:00+00:00</dc:date>
+        <dc:description>Cualquier imagen de Adolfo Bioy Casares sería incompleta si, además del forjador de tramas perfectas y del irónico narrador de desencuentros amorosos, no incluyera al testigo atento e implacable que, en silencio y durante más de cincuenta años registró cuidadosamente su vida y sus opiniones en un imponente Diario de casi 20.000 páginas. La obra, en la que se echan en falta los pasajes sobre sus conversaciones con Borges y cuya publicación está en manos del albacea literario Daniel Martino, descubre la visión de Bioy sobre temas como la Dictadura ("era consciente de lo que pasaba pero no le importaba demasiado"), las torturas ("referidas a la etapa peronista y no a la Dictadura") o la muerte, (asunto este último que aborda "con su característica elegancia").</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:39:32.742767+00:00"/>
+        <meta name="calibre:title_sort" content="Descanso de caminantes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

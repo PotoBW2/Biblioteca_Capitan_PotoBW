@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73ebc6e6-4775-45b1-8ee7-ff76bcb71815</dc:identifier>
+        <dc:title>Una magia modesta</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-01T05:00:00+00:00</dc:date>
+        <dc:description>«Una magia modesta» está dividido en dos libros: el Libro Primero contiene dos cuentos de regular extensión, «Ovidio» e «Irse»; mientras que el Libro Segundo recoge más de una treintena de narraciones cortas, algunos de ellas, microrelatos, reducidas, en algunos casos, al puro enunciado del argumento.
+Bioy Casares, dueño de una prosa capaz, en su exquisita desnudez y en su descarnada ironía, de dejar siempre un poso de inquietud en el lector. Así sucede, por ejemplo, en «Ovidio», donde un enamorado de la vida y la obra del poeta latino tiene que viajar a los confines de Europa para descubrir que el destierro forma parte de la condición humana. O «El último piso» y «Un tigre y su domador», en los que el autor descorre fugazmente la leve cortina que separa la realidad del ensueño.
+Y así, cuento tras cuento, va creando con los treinta y nueve que reúne Una magia modesta una atmósfera de sutil extrañeza, mientras teje y desteje a voluntad el destino de unas anodinas existencias, sacudidas de repente por el toque de la sombra, el absurdo y una magia, en suma, no tan modesta.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">69729</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:43:57.647461+00:00"/>
+        <meta name="calibre:title_sort" content="magia modesta, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

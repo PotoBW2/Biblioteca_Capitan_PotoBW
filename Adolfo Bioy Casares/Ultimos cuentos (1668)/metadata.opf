@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f99a6b1-1bfb-4c3d-ac49-a4bb0ca133be</dc:identifier>
+        <dc:title>Últimos cuentos</dc:title>
+        <dc:creator opf:file-as="Bioy Casares, Adolfo" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-15T05:00:00+00:00</dc:date>
+        <dc:description>En varios de los relatos que conforman este volumen con los tres últimos libros de cuentos de Adolfo Bioy Casares —«Historias desaforadas» (1986), «Una muñeca rusa» (1991) y «Una magia modesta» (1997)—, además de la idea del viaje y el desplazamiento, es muy nítida la sensación de alerta, una especie de cuenta regresiva. Ese límite muy parecido al desasosiego lo encarna una insistente enfermedad en el célebre «Máscaras venecianas», mientras que en «Irse» lo que urge es el plazo para entregar una nota acerca de la desaparición de Correas; y, en «Una muñeca rusa», la necesidad del Pollo Maceira de hacer durar su dinero antes de casarse finalmente con Chantal, la mujer millonaria que casi por azar se enamoró de él, pero no paga ninguna cuenta.
+Esa cuenta regresiva está muy lejos de terminar cuando la espera finaliza. Abre, por el contrario, inesperadas puertas a desenlaces más o menos fantásticos que pueden propiciar desde apariciones efímeras que resignifican toda la trama hasta mundos subacuáticos, en algunos casos humor, conflictos diplomáticos, problemas de gigantismo y, por último, pero no por eso menos importante, algo muy parecido a la inmortalidad.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">69728</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-16T22:43:40.140402+00:00"/>
+        <meta name="calibre:title_sort" content="Últimos cuentos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
