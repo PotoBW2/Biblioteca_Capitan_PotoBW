@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0332beb-3be1-404b-bcc7-d37f1f577dc4</dc:identifier>
+        <dc:title>Nueva Dimensión 1</dc:title>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">A. E. Van Vogt</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Antón Chéjov</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Arthur Sellings</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Bertil Mårtensson</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Janet Fox</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Kurt Luif</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">L. Major Reynolds</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Luis Eduardo Aute</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Norman Spinrad</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Pgarcía</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Poul Anderson</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1968-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Revista española de ciencia ficción y fantasía, fundada por Sebastián Martínez, Domingo Santos y Luis Vigil.CONTENIDO:Nueva Dimensión HOY:* Editorial: Hablar de ciencia ficción* Acerca de los fanzines:Un mundo paralelo, el fandom, por Luis Vigil* Se piensa:La ciencia ficción en la psicología de la cultura, por Alfonso Álvarez Villar¿Nuevo nombre para la ciencia ficción?, por Hugo GernsbackEn torno a Fahrenheit 451, por José Luis GarciAníbal 5, un cyborg demasiado humano, por Luis Gasca* Se dice* Se escribe* Miniconvención:Madrid, 9 de diciembre de 1967, por Carlos BuizaNueva Dimensión MAÑANA:* El pueblo del aire, por Poul Anderson* El monstruo, por A. E. van Vogt* Imperativo categórico, por Arthur Sellings* Hijo de la mente, por Norman Spinrad* El viejo y la tormenta, por Bertil Mårtensson* Pulgón, por L. Major Reynolds* Crónicas terrestres/1, por PGarcía* Cambio, por Kurt Luif* El peatón, por Ray Bradbury* Las Islas voladoras, Anton Chejov* Los fugitivos, por Luis-Eduardo Aute* Sólo por diversión, por Janet Fox* El ruido en la oscuridad, por Gilbert Shelton</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Crítica y teoría literaria</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:series" content="Nueva Dimensión"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-03-01T02:23:13.173634+00:00"/>
+        <meta name="calibre:title_sort" content="Nueva Dimensión 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

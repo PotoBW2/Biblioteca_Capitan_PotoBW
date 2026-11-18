@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9971f91e-7c65-4059-9455-b1249f19ce37</dc:identifier>
+        <dc:title>Nueva Dimensión 7</dc:title>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">A. E. Van Vogt</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Clifford D. Simak</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Domingo Santos</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Eric Frank Russell</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Fredric Brown</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">H. G. Wells</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Harlan Ellison</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Harry Harrison</dc:creator>
+        <dc:creator opf:file-as="A. E. Van Vogt" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Revista española de ciencia ficción y fantasía, fundada por Sebastián Martínez, Domingo Santos y Luis Vigil.CONTENIDO:Nueva Dimensión HOY:* Editorial: Nueva Dimensión, un año* Se piensa:Libros: un año pobre en ciencia ficción, por Domingo SantosCine: repaso a un año interesante, por José Luis M. MontalbánComic: 1968, año 4 D. B., por Luis Vigil* Se dice* Se escribeNueva Dimensión MAÑANA:* Los espera-un-poco, por Eric Frank Russell* Un bote de pintura, por A. E. Van Vogt* Arena, por Fredric Brown* La rata de acero inoxidable, por Harry Harrison* Aquí hay tigres, por Ray Bradbury* Deserción, por Clifford D. Simak* ... Si mañana hemos de morir, por Domingo Santos* No tengo boca y debo gritar, por Harlan Ellison* El bacilo robado, por H. G. Wells* B. C., por Jonny Hart</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Crítica y teoría literaria</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:series" content="Nueva Dimensión"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2024-03-01T02:23:57.858404+00:00"/>
+        <meta name="calibre:title_sort" content="Nueva Dimensión 7"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
