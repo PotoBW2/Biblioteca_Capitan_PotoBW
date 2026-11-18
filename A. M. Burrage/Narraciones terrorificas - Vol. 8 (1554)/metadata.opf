@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e0aefff-3be4-4bda-a5da-e58e7a1d85de</dc:identifier>
+        <dc:title>Narraciones terroríficas - Vol. 8</dc:title>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">A. M. Burrage</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Emil Petaja</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Alfonso Álvarez Villar</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Marcel Brion</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Claude Seignolle</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">William Saroyan</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">William Tenn</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Reginald Bretnor</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Nikolái Leskov</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Ambrose Bierce</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Robert Bloch</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Leonid Andréiev</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:creator opf:file-as="Burrage, A. M. &amp; Petaja, Emil &amp; Villar, Alfonso Álvarez &amp; Brion, Marcel &amp; Seignolle, Claude &amp; Saroyan, William &amp; Tenn, William &amp; Bretnor, Reginald &amp; Leskov, Nikolái &amp; Bierce, Ambrose &amp; Daudet, Alphonse &amp; Bloch, Robert &amp; Andréiev, Leonid &amp; Bradbury, Ray &amp; Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1967-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Antología de cuentos de misterio de diferentes autores, publicados por la editorial ACERVO durante los años 1960 y 1970, que se editó en una colección de diez tomos.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:series" content="Narraciones terroríficas"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2024-03-01T02:22:57.573821+00:00"/>
+        <meta name="calibre:title_sort" content="Narraciones terroríficas - Vol. 8"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
