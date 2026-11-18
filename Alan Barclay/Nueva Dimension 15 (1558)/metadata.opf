@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e54dd8f-26fc-4f0c-a824-f48124729bf1</dc:identifier>
+        <dc:title>Nueva Dimensión 15</dc:title>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Alan Barclay</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Alberto Miralles</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Amelia Graciela Parini</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Arturo de Benito y Ruiz de Villa</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Carlo Frabetti</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Dean McLaughlin</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Edogawa Rampo</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Luciano de Samósata</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Luis Vigil (tr)</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Miguel Cobaleda</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Miguel Pacheco</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Sergio Gaut Vel Hartman</dc:creator>
+        <dc:creator opf:file-as="Alan Barclay" opf:role="aut">Teresa Inglés</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1970-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Revista española de ciencia ficción y fantasía, fundada por Sebastián Martínez, Domingo Santos y Luis Vigil.CONTENIDO:Nueva Dimensión HOY:* Editorial: La lenta ósmosis* Se piensa:La epopeya cósmica de la familia Aznar, por Carlos Sáiz CidonchaDefensa del arte cruel, por Félix GrandePrecisiones sobre el libro «Los Mitos de Cthulhu», por Rafael Llopis¿Hacia un comic de terror a lo europeo?, por Joaquín Alberich* Se dice* Se escribeNueva Dimensión MAÑANA:* Algunas preguntas embarazosas para Zeus, por Luciano de Samósata* Sodomáquina, por Carlo Frabetti* Simbiosis eroscromática, por Alberto Miralles* ¿Es usted feliz?, por Alberto Miralles* Una posibilidad, por Miguel Pacheco* ... y las ranas pidieron un dios, por Miguel Cobaleda* Complemento: un hombre, por Teresa Inglés y Luis Vigil* Casi extinto, por Alan Barclay* Espera interrumpida, por Arturo de Benito y Ruiz de Villa* El infierno de los espejos, por Edogawa Rampo* Ardilla, por A. G. Parini y Sergio Gaut vel Hartman* Al final del viaje, por Dean McLaughlin</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Crítica y teoría literaria</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:series" content="Nueva Dimensión"/>
+        <meta name="calibre:series_index" content="15"/>
+        <meta name="calibre:timestamp" content="2024-03-01T02:23:27.870639+00:00"/>
+        <meta name="calibre:title_sort" content="Nueva Dimensión 15"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
