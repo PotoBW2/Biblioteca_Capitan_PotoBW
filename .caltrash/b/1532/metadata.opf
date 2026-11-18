@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">566b1fab-07dd-4afa-a814-568ad191b55b</dc:identifier>
+        <dc:title>Resimli Adam</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-31T21:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;"Her resim ufak birer hikâyedir. Onları seyredersen birkaç dakika içinde sana bir öykü anlatırlar."
+
+Resimli Adam'ın vücudundan yansıyan, hepsi birbirinden etkileyici on sekiz öykü… Ray Bradbury'den eleştiren, düşündüren ve dehşete düşüren bir bilimkurgu klasiği... Mars Yıllıkları'ndan hemen sonra, Fahrenheit 451'den bir süre önce yayımlanan bu kitap, Bradbury külliyatının en önemli eserlerinden biri. 
+
+Ölümden inançlara, nükleer savaştan ırkçılığa, dünyanın sonundan uzaydaki yalnızlığımıza kadar insanlığa dair birçok konuya değinen Bradbury, hayallerimizle hakikatin karşı karşıya geldiği, modern bireyin psikolojisine ve teknolojik ilerlemenin karanlık yanına ışık tutan öyküleriyle bize yine bizi anlatıyor.&lt;/p&gt;</dc:description>
+        <dc:publisher>İthaki Yayınları</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786053752240</dc:identifier>
+        <dc:language>tur</dc:language>
+        <dc:subject>Bilim Kurgu</dc:subject>
+        <dc:subject>Fantastik</dc:subject>
+        <dc:subject>Hikâye</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2024-02-28T18:00:31+00:00"/>
+        <meta name="calibre:title_sort" content="Resimli Adam"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

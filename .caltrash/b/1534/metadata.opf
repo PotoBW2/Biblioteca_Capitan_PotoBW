@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1534</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88f5c3d5-a8f6-4b75-b9e4-a73cc4dec351</dc:identifier>
+        <dc:title>Gümüş Çekirgeler</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-08T21:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Yaşamak ve iyiye dönüşmek için şimdi çok daha fazla olanaklarım var.Bunların , beni gerektiğinde daha becerikli bir katil yapacağından kuşkum yok.Bir tür din bu : Soluk almayı öğretiyor.Güneşe uzanıp uyumayı , müzik dinlemeyi ve bir kitabın nasıl okunacağını öğretiyor.Senin uygarlığın insana ne veriyor?
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Başkan Yayınları</dc:publisher>
+        <dc:language>tur</dc:language>
+        <dc:subject>Bilim Kurgu</dc:subject>
+        <dc:subject>Distopya</dc:subject>
+        <meta name="calibre:series" content="Kurgu Bilim Dizisi"/>
+        <meta name="calibre:series_index" content="15"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2024-02-28T18:00:38+00:00"/>
+        <meta name="calibre:title_sort" content="Gümüş Çekirgeler"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
