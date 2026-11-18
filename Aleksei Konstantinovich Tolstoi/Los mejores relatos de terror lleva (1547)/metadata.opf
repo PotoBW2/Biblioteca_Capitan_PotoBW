@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4adbd29-f42e-4842-adb2-7174ed97c030</dc:identifier>
+        <dc:title>Los mejores relatos de terror llevados al cine</dc:title>
+        <dc:creator opf:file-as="Tolstoï, Alekseï Konstantinovich &amp; Langelaan, George &amp; Maurier, Daphne Du &amp; Poe, Edgar Allan &amp; Bradbury, Ray &amp; Stevenson, Robert Louis" opf:role="aut">Alekseï Konstantinovich Tolstoï</dc:creator>
+        <dc:creator opf:file-as="Tolstoï, Alekseï Konstantinovich &amp; Langelaan, George &amp; Maurier, Daphne Du &amp; Poe, Edgar Allan &amp; Bradbury, Ray &amp; Stevenson, Robert Louis" opf:role="aut">George Langelaan</dc:creator>
+        <dc:creator opf:file-as="Tolstoï, Alekseï Konstantinovich &amp; Langelaan, George &amp; Maurier, Daphne Du &amp; Poe, Edgar Allan &amp; Bradbury, Ray &amp; Stevenson, Robert Louis" opf:role="aut">Daphne Du Maurier</dc:creator>
+        <dc:creator opf:file-as="Tolstoï, Alekseï Konstantinovich &amp; Langelaan, George &amp; Maurier, Daphne Du &amp; Poe, Edgar Allan &amp; Bradbury, Ray &amp; Stevenson, Robert Louis" opf:role="aut">Edgar Allan Poe</dc:creator>
+        <dc:creator opf:file-as="Tolstoï, Alekseï Konstantinovich &amp; Langelaan, George &amp; Maurier, Daphne Du &amp; Poe, Edgar Allan &amp; Bradbury, Ray &amp; Stevenson, Robert Louis" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:creator opf:file-as="Tolstoï, Alekseï Konstantinovich &amp; Langelaan, George &amp; Maurier, Daphne Du &amp; Poe, Edgar Allan &amp; Bradbury, Ray &amp; Stevenson, Robert Louis" opf:role="aut">Robert Louis Stevenson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-30T22:00:00+00:00</dc:date>
+        <dc:description>Se trata de una antología de clásicos de la literatura y del cine que han dejado una huella profunda en los dos géneros; su oportuna selección permite revisar la historia del terror de los siglos XIX y XX, a la vez que pone de relieve las deudas de la actual producción con estas obras. Es posible agrupar los relatos en dos grandes grupos que podríamos titular: el terror gótico y el terror cósmico. Al primer grupo pertenecerían: El ladrón de cuerpos, El gato negro y La familia del «vurdalak». Se trata de los relatos más antiguos que juegan con los terrores de estirpe romántica: escenarios de ultratumba, animales demoníacos y vampiros. La lección moral que de ellos se desprende es siempre individual. En cambio, los tres relatos restantes plantean unos problemas colectivos en unos escenarios cotidianos o, al menos, no tan tópicamente terroríficos. Tanto Los pájaros como La mosca presentan animales inofensivos que, al vulnerarse las leyes naturales, se convierten en enemigos de la humanidad. Del mismo modo, La sirena de la niebla se convierte en el símbolo de los elementos naturales que el progreso humano ha condenado a la desaparición. Por esta razón parece adecuado el epígrafe de «terror cósmico».La obra que presentamos permite indagar en el sugerente y complejo mundo del miedo y superar una visión banal de los relatos y las películas de este género.Relatos incluidos en esta antología por orden de lecturaLOS LADRONES DE CADÁVERES (Robert Louis Stevenson). El robo de cadáveres se ha convertido en una macabra profesión, en la que algunos llegan a matar para conseguirlos.EL GATO NEGRO (Edgar Allan Poe). Símbolo todopoderoso del mal cuya influencia convierte a su amo en un ser monstruoso.LA FAMILIA DEL “VURDALAK” (Alexéi Tolstoi). Terrorífica historia en la que un vampiro convierte en seres como él a todos los miembros de su familia.LOS PÁJAROS (Daphne du Maurier). Una extraña locura se ha apoderado de los pájaros. La humanidad está en peligro. Un relato que transmite desasosiego y angustia desde la primera página.LA SIRENA DE LA NIEBLA (Ray Bradbury). Un monstruo de tiempos lejanos, atraído por el acompasado sonido de la sirena de un faro, responde a la llamada.LA MOSCA (George Langelaan), o los peligros de los experimentos científicos. Un relato que subyuga, inquieta, alucina.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:timestamp" content="2024-03-01T02:22:00.704504+00:00"/>
+        <meta name="calibre:title_sort" content="mejores relatos de terror llevados al cine, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
